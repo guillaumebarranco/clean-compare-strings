@@ -1,0 +1,19 @@
+{
+  "name": "clean-compare-strings",
+  "version": "1.0.0",
+  "description": "Help to clean a string from accents, uppercases, spaces etc and compare two strings using cleaning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillaumebarranco/clean-compare-strings.git"
+  },
+  "author": "Webarranco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guillaumebarranco/clean-compare-strings/issues"
+  },
+  "homepage": "https://github.com/guillaumebarranco/clean-compare-strings#readme"
+}
