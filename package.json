@@ -1,6 +1,6 @@
 {
   "name": "clean-compare-strings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Help to clean a string from accents, uppercases, spaces etc and compare two strings using cleaning",
   "main": "index.js",
   "scripts": {
