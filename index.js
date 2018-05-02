@@ -21,3 +21,4 @@ function cleanString(text) {
 }
 exports.cleanString = cleanString;
 exports.stringsMatch = function (str1, str2) { return cleanString(str1) === cleanString(str2); };
+exports.stringIncludes = function (str1, str2) { return cleanString(str1).includes(cleanString(str2)); };

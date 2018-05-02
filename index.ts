@@ -21,3 +21,4 @@ export function cleanString(text: StringOrNumber): string {
 }
 
 export const stringsMatch = (str1: StringOrNumber, str2: StringOrNumber) => cleanString(str1) === cleanString(str2);
+export const stringIncludes = (str1: StringOrNumber, str2: StringOrNumber) => cleanString(str1).includes(cleanString(str2));
